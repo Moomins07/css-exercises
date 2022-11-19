@@ -81,3 +81,8 @@ html {
     "two four"
     "five five";
 }
+
+.logo {
+  grid-column-start: 1;
+  color: red;
+}
